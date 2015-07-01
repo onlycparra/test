@@ -1,1 +1,3 @@
 codigo de bernardo, no debería hacer problemas al hacer un push, porque es un archivo aparte.
+
+Algo que modificó
