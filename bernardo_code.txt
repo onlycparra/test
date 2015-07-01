@@ -1,3 +1,5 @@
 codigo de bernardo, no debería hacer problemas al hacer un push, porque es un archivo aparte.
 
 Modificación de otro programador, este es Camilo
+
+Modificación local
