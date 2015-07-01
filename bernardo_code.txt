@@ -3,3 +3,5 @@ codigo de bernardo, no debería hacer problemas al hacer un push, porque es un a
 Modificación de otro programador, este es Camilo
 
 Modificación local
+
+Otra modificación hecha en origin en paralelo a la edición de Bernardo
